@@ -1,0 +1,30 @@
+header{
+    background-image: url(../img/back.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(250, 252, 253);
+    padding: 20px 20px 0;
+}
+img{
+    width: 150px;
+}
+footer{
+    padding: 40px;
+}
+.hero{
+    font-size:large
+}
+.footer-icon .bi {
+    font-size: 2rem; 
+  }
+  .card{
+    width:fit-content
+  }
+.container{
+    display: flex;
+    justify-content: center;
+}
+.tree{
+    padding:20px
+}
