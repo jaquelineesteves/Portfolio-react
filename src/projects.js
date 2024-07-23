@@ -35,7 +35,7 @@ const projects =[
         deployed:'No',
         github:'https://github.com/jaquelineesteves/weather-dashboard',
         description:'Back end application that create a database for an e-commerce site using express.js API, sequelize and Postgres.',
-        image:'/img/weather.png',
+        image:'/img/ecommerce.png',
         alt:'screenshot of this work',
         id:'4',
 
@@ -65,7 +65,7 @@ const projects =[
         deployed:'https://jaquelineesteves.github.io/weather-dashboard/',
         github:'https://github.com/jaquelineesteves/API-Social-Network-NoSQL',
         description:'Back-end API using mongoDB ',
-        image:'/img/weather.png',
+        image:'/img/APISN.png',
         alt:'screenshot of this work',
         id:'7',
 
