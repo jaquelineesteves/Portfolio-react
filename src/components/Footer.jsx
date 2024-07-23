@@ -4,8 +4,8 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="footer">
-      <div className="container d-flex justify-content-center fixed-bottom">
+    <footer className="footer fixed-bottom">
+      <div className="container d-flex justify-content-center ">
       <a
           href="https://github.com/jaquelineesteves"
           
@@ -20,7 +20,7 @@ const Footer = () => {
         >
           <i className="bi bi-linkedin "></i>
         </a>
-        <p>&copy; {new Date().getFullYear()} Your Company. All Rights Reserved.</p>
+        <p>&copy; {new Date().getFullYear()} All Rights Reserved.</p>
       </div>
     </footer>
   );

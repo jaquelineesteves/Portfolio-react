@@ -10,8 +10,8 @@ function NavTabs() {
           to="/"
           className={currentPage === '/' ? 'nav-link active' : 'nav-link'}
         >
-          <i class="fa-solid fa-house"> /</i> 
-          Home
+          <i class="fa-solid fa-user"> /</i>
+          About me 
         </Link>
       </li>
       <li className="nav-item">
