@@ -4,7 +4,7 @@ import myResume from "../documents/resume-jaqueline.pdf";
 export default function Resume() {
   return (
     <div>
-      <h3 className="container-title d-flex justify-content-center tree ">
+      <h3 className="container-title d-flex  tree ">
         Resume
       </h3>
       <div className="container">
@@ -15,9 +15,10 @@ export default function Resume() {
           <div className="col list">HTML</div>
           <div className="col list">CSS</div>
           <div className="col list">JavaScript</div>
+          <div className="col list">React.js</div>
           <div className="col list">GitHub</div>
           <div className="col list">API's </div>
-          <div className="col list">Node.js,Inquirer,NPM</div>
+          <div className="col list">Node.js,NPM</div>
           <div className="col list">Express.js</div>
           <div className="col list">PostgreSQL,sequelize, MongoDB</div>
         </div>
