@@ -69,7 +69,7 @@ export default function Contact() {
 
   return (
     <div>
-      <h3 className ="container-title d-flex justify-content-center tree">Contact me:</h3>
+      <h3 className ="container-title d-flex  tree">Contact me:</h3>
     <div className="container">
       
       <form onSubmit={handleSubmit}>

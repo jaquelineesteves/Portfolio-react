@@ -4,7 +4,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="footer fixed-bottom">
+    <footer className="footer sticked-bottom">
       <div className="container d-flex justify-content-center ">
       <a
           href="https://github.com/jaquelineesteves"

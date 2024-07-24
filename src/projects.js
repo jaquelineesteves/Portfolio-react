@@ -5,24 +5,22 @@ const projects =[
         deployed:'https://jaquelineesteves.github.io/weather-dashboard/',
         github:'https://github.com/jaquelineesteves/weather-dashboard',
         description:' web apllication using a Weather API',
-        image:'public/img/weather.png',
+        image:'img/weather.png',
         alt:'screenshot of this work',
         id:'1',
 
     },
     {
         title:'EMPLOYER TACKER',
-        deployed:'no',
         github:'https://github.com/jaquelineesteves/employee-tracker',
         description:'Back-end application that create tables using  inquirer node.js, postgres SQL',
-        image:'public/img/Employer-tracker.png',
+        image:'img/Employer-tracker.png',
         alt:'screenshot of this work',
         id:'2',
 
     },
     {
         title:'LOGO MAKER',
-        deployed:'no',
         github:'https://github.com/jaquelineesteves/logo-maker-svg',
         description:'aplication that generates Logos in SVG using inquirer node.js',
         image:'img/Logo-maker.png',
@@ -32,7 +30,6 @@ const projects =[
     },
     {
         title:'E-COMMERCE OMR',
-        deployed:'No',
         github:'https://github.com/jaquelineesteves/weather-dashboard',
         description:'Back end application that create a database for an e-commerce site using express.js API, sequelize and Postgres.',
         image:'/img/ecommerce.png',
@@ -42,7 +39,6 @@ const projects =[
     },
     {
         title:'README GENERATOR ',
-        deployed:'No',
         github:'https://github.com/jaquelineesteves/readme-generator',
         description:'generate a high quality readme for repositories using node.js',
         image:'/img/README.png',
@@ -62,7 +58,6 @@ const projects =[
     },
     {
         title:'API Social Network NoSQL',
-        deployed:'https://jaquelineesteves.github.io/weather-dashboard/',
         github:'https://github.com/jaquelineesteves/API-Social-Network-NoSQL',
         description:'Back-end API using mongoDB ',
         image:'/img/APISN.png',
