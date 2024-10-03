@@ -1,5 +1,4 @@
 import "../styles/style.css";
-import myResume from "../documents/resume-jaqueline.pdf";
 
 export default function Resume() {
   return (
@@ -28,7 +27,7 @@ export default function Resume() {
       <h6>You can find my resume here: </h6>
       </div>
       <div>
-      <a href={myResume} download className="btn btn-outline-secondary btn-sm">
+      <a href="/documents/resume-jaqueline.pdf" download className="btn btn-outline-secondary btn-sm">
          Jaqueline's Resume
       </a>
       </div>
